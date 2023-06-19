@@ -1,34 +1,23 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Russell":
+  - firstname: ["Jacob", "J.", "J"]
+    url: https://sites.google.com/view/jrussell/about
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Abbott":
+  - firstname: ["Carolyn", "C.", "C"]
+    url: https://www.carolynrabbott.com/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Ng":
+  - firstname: ["Thomas", "T."]
+    url: https://sites.google.com/site/thomasng192/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Rasmussen": 
+  - firstname: ["Alexander", "A.", "A"]
+    url: https://www.ajrasmussen.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Behrstock":
+  - firstname: ["Jason", "J.", "J"]
+    url: http://comet.lehman.cuny.edu/behrstock/index.html
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Durham":
+  - firstname: ["Matthew", "M.", "M"]
+    url: https://sites.google.com/view/mgdurham/

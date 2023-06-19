@@ -2,25 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile.jpg
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>School of Mathematics</p>
+    <p>University of Bristol</p>
+    <p>Woodland Road</p>
+    <p>Bristol BS8 1UG</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Heilbronn Research Fellow at the [University of Bristol](http://www.bristol.ac.uk/maths/), under the mentorship of [Mark Hagen](https://www.wescac.net/). Prior to this, I completed my PhD at the [City University of New York Graduate Center](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Mathematics); my thesis advisor was [Jason Behrstock](http://comet.lehman.cuny.edu/behrstock/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research is in geometric group theory and low-dimensional topology, with particular focus on cube complexes, braid groups, and hierarchical hyperbolicity. I am currently working on writing code to implement algorithms detailed in my paper on [graph braid groups](https://arxiv.org/pdf/2209.03860.pdf).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+A copy of my research statement is available [here](/assets/pdf/Research_statement.pdf).
+
+I am an organiser of the [Bristol Geometry and Topology Seminar](https://www.bristolmathsresearch.org/events/geometry-and-topology-seminar/), alongside [Luke Jeffreys](https://people.maths.bris.ac.uk/~pk20963/) and [Irene Pasquinelli](https://people.maths.bris.ac.uk/~ip13935/).
+
+I also recently organised a [conference on quotients of hierarchically hyperbolic groups](https://sites.google.com/view/hhgquotients/).
