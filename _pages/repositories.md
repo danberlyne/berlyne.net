@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /code/
-title: Code
+title: code
 description:
 nav: true
 nav_order: 5
