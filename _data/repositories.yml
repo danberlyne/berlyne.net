@@ -2,5 +2,9 @@ github_users:
   - danberlyne
 
 github_repos:
-  - danberlyne/word_game
+  - danberlyne/graph-braid-splitter
   - danberlyne/berlyne.net
+  - danberlyne/recap-video-generator
+  - danberlyne/yt-playlist-generator
+  - danberlyne/ascii-scoreboard-generator
+  - danberlyne/word-game
