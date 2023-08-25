@@ -3,6 +3,7 @@ github_users:
 
 github_repos:
   - danberlyne/graph-braid-splitter
+  - danberlyne/graph-braid-presenter
   - danberlyne/berlyne.net
   - danberlyne/recap-video-generator
   - danberlyne/yt-playlist-generator
