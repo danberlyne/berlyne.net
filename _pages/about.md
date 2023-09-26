@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Email: [dan@berlyne.net](mailto:dan@berlyne.net)</p>
+    <p>Email: dan@berlyne.net</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
