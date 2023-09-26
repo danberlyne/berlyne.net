@@ -4,8 +4,9 @@ github_users:
 github_repos:
   - danberlyne/graph-braid-splitter
   - danberlyne/graph-braid-presenter
-  - danberlyne/berlyne.net
+  - danberlyne/SurfaceLevel
   - danberlyne/recap-video-generator
   - danberlyne/yt-playlist-generator
+  - danberlyne/berlyne.net
   - danberlyne/ascii-scoreboard-generator
   - danberlyne/word-game

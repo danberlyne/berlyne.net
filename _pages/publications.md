@@ -16,7 +16,7 @@ My research focuses on non-positive curvature in groups. I am especially interes
 - graph products of hyperbolic groups;
 - braid groups.
 
-Recently, I have been studying random quotients of hierarchically hyperbolic groups and using cube complexes to study non-positive curvature in graph braid groups. I am also working on writing code to implement algorithms detailed in my paper on [graph braid groups](https://arxiv.org/pdf/2209.03860.pdf). For example, I have written a [programme that computes free splittings of graph braid groups](https://github.com/danberlyne/graph-braid-splitter) and, joint with [Tomasz Maciazek](https://research-information.bris.ac.uk/en/persons/tomasz-maciazek), a [programme that computes presentations of graph braid groups](https://github.com/danberlyne/graph-braid-presenter).
+Recently, I have been studying random quotients of hierarchically hyperbolic groups and using cube complexes to study non-positive curvature in graph braid groups. I am also working on writing code to implement algorithms detailed in my paper on [graph braid groups](https://arxiv.org/pdf/2209.03860.pdf). For example, I have written a [program that computes free splittings of graph braid groups](https://github.com/danberlyne/graph-braid-splitter) and, joint with [Tomasz Maciazek](https://research-information.bris.ac.uk/en/persons/tomasz-maciazek), a [program that computes presentations of graph braid groups](https://github.com/danberlyne/graph-braid-presenter).
 
 A copy of my research statement is available [here](/assets/pdf/Research_statement.pdf).
 
