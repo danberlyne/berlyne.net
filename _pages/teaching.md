@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description:
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 In 2022-2023 I taught [Topics in Modern Geometry](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=MATHM0008) at the University of Bristol.
