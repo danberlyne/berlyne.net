@@ -22,7 +22,7 @@ CONTROLS:
 <ul>
     <li><i>Arrow keys:</i> Turn turret</li>
     <li><i>Spacebar:</i> Shoot</li>
-    <li><i>Esc/P:</i> Pause</li>
+    <li><i>P:</i> Pause</li>
     <li><i>K:</i> Kill active projectile (useful if you want to skip to the next shot)</li>
 </ul>
 
