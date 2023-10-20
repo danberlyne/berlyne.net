@@ -1,39 +1,28 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Surface Level
+description: A packinko-style puzzle game, developed in Unity.
+img: assets/img/SurfaceLevel600x600.png
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Surface Level is a futuristic pachinko-style puzzle game that takes place on various topological surfaces, rendered as polygons whose sides are paired together to act as portals. Try to rack up a big multihit bonus by hitting multiple pegs with a single shot!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/SurfaceLevel_screenshot.png" title="in-game screenshot" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <!-- <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+    </div> -->
 </div>
-<div class="caption">
+<!-- <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+</div> 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -41,14 +30,25 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
-</div>
+</div> -->
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+Try out a demo version of the game below. Please note, this is an early version that is regularly being updated with new features and content!
 
+CONTROLS: 
+<ul>
+    <li><i>Arrow keys:</i> Turn turret</li>
+    <li><i>Spacebar:</i> Shoot</li>
+    <li><i>Esc/P:</i> Pause</li>
+    <li><i>K:</i> Selfdestruct projectile (useful if you want to skip to the next shot)</li>
+</ul>
 
-<div class="row justify-content-sm-center">
+<iframe src="https://i.simmer.io/@danberlyne/surface-level" style="width:960px;height:540px"></iframe>
+
+Let me know if you find any bugs or have any suggestions for features/improvements by <a href="mailto:dan@berlyne.net">sending me an email</a>.
+
+If you want to support my work, feel free to <a href="https://www.paypal.com/paypalme/danberlyne/2">leave a tip</a>.
+
+<!-- <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -58,7 +58,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 </div>
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+</div> 
 
 
 The code is simple.
@@ -77,4 +77,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

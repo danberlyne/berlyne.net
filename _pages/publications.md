@@ -5,7 +5,7 @@ title: research
 description:
 years: [2023, 2022, 2021, 2015, 2014]
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 My research is in geometric group theory, an area of mathematics devoted to studying groups as geometric objects in order to solve algebraic and algorithmic problems, as well as problems in other fields. For example, geometric group theory was used by Agol and Wise to solve Thurston’s virtual Haken conjecture, a major open problem in low-dimensional topology, and by Sela to solve the famed Tarski conjecture in first-order logic. 
