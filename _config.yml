@@ -170,8 +170,8 @@ collections:
     output: false
     permalink: /news/:path/
   projects:
-    output: false
-    permalink: /projects/:path/
+    output: true
+    permalink: /games/:path/
 
 announcements:
   enabled: false
