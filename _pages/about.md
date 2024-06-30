@@ -17,9 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Until October 2023, I was a Heilbronn Research Fellow at the [University of Bristol](http://www.bristol.ac.uk/maths/), working with [Mark Hagen](https://www.wescac.net/). Prior to this, I completed my Ph.D. in Mathematics at the [City University of New York](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Mathematics); my thesis advisor was [Jason Behrstock](http://comet.lehman.cuny.edu/behrstock/).
+I currently work as a Mathematical Researcher at [ThinkTank Maths](https://www.thinktankmaths.com/), a role that lies at the intersection of mathematics and data science. I work with technical data from scientific domains (mostly related to space systems) and develop novel mathematical techniques to analyse and understand it, as well as implementing solutions for clients in Python.
 
-My research is in geometric group theory and low-dimensional topology (i.e. 2D and 3D), utilising tools from algebra, graph theory, combinatorics, and probability. I recently wrote two Python programs implementing algorithms detailed in my paper on [graph braid groups](https://arxiv.org/pdf/2209.03860.pdf). The code is available on my GitHub page in the ['graph-braid-splitter'](https://github.com/danberlyne/graph-braid-splitter) and ['graph-braid-presenter'](https://github.com/danberlyne/graph-braid-presenter) repositories.
+Before I joined ThinkTank Maths, I was a Heilbronn Research Fellow at the [University of Bristol](http://www.bristol.ac.uk/maths/), working with [Mark Hagen](https://www.wescac.net/). Prior to this, I completed my Ph.D. in Mathematics at the [City University of New York](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Mathematics); my thesis advisor was [Jason Behrstock](http://comet.lehman.cuny.edu/behrstock/).
+
+My research is in geometric group theory and low-dimensional topology (i.e. 2D and 3D), utilising tools from algebra, graph theory, combinatorics, and probability. I wrote two Python programs implementing algorithms detailed in my paper on [graph braid groups](https://arxiv.org/pdf/2209.03860.pdf). The code is available on my GitHub page in the ['graph-braid-splitter'](https://github.com/danberlyne/graph-braid-splitter) and ['graph-braid-presenter'](https://github.com/danberlyne/graph-braid-presenter) repositories.
 
 A copy of my research statement is available [here](/assets/pdf/Research_statement.pdf).
 
