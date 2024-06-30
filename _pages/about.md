@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I currently work as a Mathematical Researcher at [ThinkTank Maths](https://www.thinktankmaths.com/), a role that lies at the intersection of mathematics and data science. I work with technical data from scientific domains (mostly related to space systems) and develop novel mathematical techniques to analyse and understand it, as well as implementing solutions for clients in Python.
+I currently work as a Mathematical Researcher at [ThinkTank Maths](https://www.thinktankmaths.com/), a role that lies at the intersection of mathematics and data science. I work with technical data from scientific domains (mostly related to space systems) and develop novel mathematical techniques to analyse and model it, as well as implementing solutions for clients in Python.
 
 Before I joined ThinkTank Maths, I was a Heilbronn Research Fellow at the [University of Bristol](http://www.bristol.ac.uk/maths/), working with [Mark Hagen](https://www.wescac.net/). Prior to this, I completed my Ph.D. in Mathematics at the [City University of New York](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Mathematics); my thesis advisor was [Jason Behrstock](http://comet.lehman.cuny.edu/behrstock/).
 
